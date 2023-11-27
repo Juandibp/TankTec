@@ -1,5 +1,7 @@
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Threads\PlayerThread.java
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Prototypes\FastTank.java
+C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Prototypes\MetalBrick.java
+C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Threads\ShellThread.java
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\JSONFiles\JSONHandler.java
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Commands\PauseCommand.java
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Game\PrototypeFactory.java
@@ -7,6 +9,7 @@ C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_PO
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Prototypes\TankTank.java
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Game\GameModel.java
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Game\GameWindow.java
+C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Prototypes\Bullet.java
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Interfaces\IStrategy.java
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Commands\FireCommand.java
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Game\Main.java
@@ -16,11 +19,18 @@ C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_PO
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Interfaces\IPrototype.java
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Commands\MoveUpCommand.java
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Prototypes\PlayerTank.java
+C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Prototypes\Shell.java
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Commands\MoveLeftCommand.java
+C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Prototypes\Bush.java
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Interfaces\IObservable.java
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Prototypes\SimpleTank.java
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Commands\MoveRightCommand.java
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Game\GameController.java
+C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Prototypes\HalfBrick.java
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Threads\EnemiesThread.java
+C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Prototypes\Eagle.java
+C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Prototypes\HalfMetalBrick.java
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Prototypes\PowerTank.java
+C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Prototypes\Brick.java
 C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Game\Config.java
+C:\Users\Alonso D\OneDrive\Documents\NetBeansProjects\Proyecto3_POO\Proyecto3_POO\src\main\java\Prototypes\Enemy.java
